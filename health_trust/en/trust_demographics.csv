@@ -1,0 +1,11 @@
+﻿cat,type,Distrust,Neither trust nor distrust,Trust
+Settlement type,Capital,24,37,40
+Settlement type,Urban  ,21,36,43
+Settlement type,Rural  ,18,34,48
+Gender,Female,22,36,42
+Gender,Male,19,34,47
+Minority status,Georgian,22,36,42
+Minority status,Non-Georgian,12,29,58
+Internet,Every day ,23,36,40
+Internet,Less often,20,35,46
+Internet,Never,16,32,51
