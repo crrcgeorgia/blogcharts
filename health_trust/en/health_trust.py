@@ -12,11 +12,13 @@ import pandas as pd
 
 dems = pd.read_csv('trust_demographics.csv')
 
-colors = ['#44546a', '#2baae9', '#ff575d', '#00375e', '#a5a5a5']
+five_colours = ['#ca0020', '#f4a582', '#f7f7f7', '#92c5de', '#0571b0']
+three_colours = ['#ef8a62', '#f7f7f7', '#67a9cf']
 
+colors = three_colours[::-1]
 fig = go.Figure()
 x = dems[['cat', 'type']].T
-for n, y_lab in enumerate(['Distrust', 'Neither trust nor distrust', 'Trust']):
+for n, y_lab in enumerate(['Distrust', 'Neither trust nor distrust', 'Trust'][::-1]):
   fig.add_bar(x=x, y=dems[y_lab], name=y_lab)
   fig['data'][n]['marker'].update({'color': colors[n]})
 
@@ -27,17 +29,18 @@ fig.update_layout(
         size=18,
         color="#7f7f7f"
     ),
-    yaxis = dict(range = [0,100])
+    yaxis = dict(range = [0,100]),
+    plot_bgcolor='white'
 )
 fig.show()
 fig.write_html("chart2.html")
 
 ins = pd.read_csv('trust_institutions.csv')
 ins = ins.set_index('Institution').assign(total=lambda x: x.sum(axis=1))
-ins = ins[ins.columns[:-1]].div(ins['total'], axis=0).mul(100).reset_index()
+ins = ins[ins.columns[:-1]].div(ins['total'], axis=0).mul(100).reset_index().iloc[::-1]
 
 # colors = ['#006400', '#228B22', 'yellow', '#FFA500', 'red', 'grey', 'black', 'red']
-colors = ['#44546a', '#2baae9', '#a5a5a5', '#ff575d', '#ff0009', 'darkgrey', 'darkslategrey']
+colors = five_colours[::-1] + ['darkgrey', 'darkslategrey']
 y = ins['Institution']
 
 fig = go.Figure()
@@ -62,10 +65,10 @@ for yd, xd in zip(y, ins[ins.columns[1:]].values):
     for i in range(1, len(xd)):
       # labeling the rest of percentages for each bar (x_axis)
       txt = str(int(xd[i]))
-      # if i in [2,3]:
-      #   color = 'black'
-      # else:
-      color = 'white'
+      if i in [2]:
+        color = 'black'
+      else:
+        color = 'white'
       annotations.append(dict(xref='x', yref='y',
                               x=space + (xd[i]/2), y=yd,
                               text=txt,
@@ -83,8 +86,7 @@ fig.update_layout(
     )
 )
 fig.update_layout(barmode='stack', xaxis = dict(range = [0,100]), annotations=annotations, legend=dict(
-                orientation="h"))
+                orientation="h"), plot_bgcolor='white')
 
 fig.show()
 fig.write_html("chart1.html")
-
