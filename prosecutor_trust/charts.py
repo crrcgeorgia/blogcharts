@@ -6,7 +6,7 @@ colors2 = ["maroon", "orange", "midnightblue", "dimgray"]
 color_list = [colors1, colors2, colors2]
 titles = [
     """To what degree do you trust or distrust the Prosecutor's<br>
-office of Georgia? (%)""",
+Office of Georgia? (%)""",
     """In your opinion, abuse of power by prosecutors in Georgia<br>
 is a frequent case, a rare case, or never the case? (%)""",
     """In your opinion, prosecutors in Georgia making deals with judges<br>
@@ -54,7 +54,7 @@ for colors, chart, title in zip(color_list, ["chart1", "chart2", "chart3"], titl
                 yref="y",
                 x=xd[0] / 2,
                 y=yd,
-                text=str(int(xd[0])),
+                text=str(int(round(xd[0], 0))),
                 font=dict(family="sans serif", size=12, color="rgb(248, 248, 255)"),
                 showarrow=False,
             )
@@ -63,7 +63,7 @@ for colors, chart, title in zip(color_list, ["chart1", "chart2", "chart3"], titl
         space = xd[0]
         for i in range(1, len(xd)):
             # labeling the rest of percentages for each bar (x_axis)
-            txt = str(int(xd[i]))
+            txt = str(int(round(xd[i], 0)))
             if int(txt) == 0:
                 continue
             else:
