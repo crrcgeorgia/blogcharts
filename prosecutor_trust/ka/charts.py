@@ -5,19 +5,20 @@ colors1 = ["midnightblue", "maroon", "darkgrey", "dimgray"]
 colors2 = ["maroon", "orange", "midnightblue", "dimgray"]
 color_list = [colors1, colors2, colors2]
 titles = [
-    """To what degree do you trust or distrust the Prosecutor's<br>
-Office of Georgia? (%)""",
-    """In your opinion, abuse of power by prosecutors in Georgia<br>
-is a frequent case, a rare case, or never the case? (%)""",
-    """In your opinion, prosecutors in Georgia making deals with judges<br>
-in order to have decisions favourable for them is a frequent<br>
-case, a rare case, or never the case? (%)""",
+    """გთხოცთ, მითხრათ რამდენად ენდობით ან არ ენდობით<br>
+საქართველოს პროკურატურას? (%)""",
+    """თქცენი აზრით, საქართველოში პროკურორების მიერ ძალაუპლების<br>
+    გოროტად გამოყენება კონკრეტულ საქმეზე მუშაობისას ხშირად ხდება,<br>
+    იშვიათად ხდება, თუ არასროს ხდება? (%)""",
+    """თქვენი აზრით, საქართველოში პროკურორების გარიგება<br>
+მოსამართლეებთან მათთვის სასარგებლო გადაწქვებტილების მისაღებად<br>
+ხშირად ხდება, იშვიათად ხდება, თუ არასდროს ხდება? (%)""",
 ]
 
 #%%
 
 for colors, chart, title in zip(color_list, ["chart1", "chart2", "chart3"], titles):
-    df = pd.read_csv(f"prosecutor_trust/{chart}.csv").T.reset_index()
+    df = pd.read_csv(f"prosecutor_trust/ka/{chart}.csv").T.reset_index()
 
     # Needs a quick transpose and some column faff. Next time fix in csv.
     df = df.rename(columns={k: v for (k, v) in zip(df.columns, df.iloc[0])}).iloc[1:]
