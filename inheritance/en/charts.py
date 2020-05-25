@@ -2,12 +2,11 @@
 
 import pandas as pd
 import plotly.graph_objects as go
-
+import plotly.express as px
 
 colors2 = ["maroon", "orange", "midnightblue", "dimgray"]
-color_list = [colors1, colors2, colors2]
+# color_list = [colors1, colors2, colors2]
 titles = [
-    ,
     """In your opinion, abuse of power by prosecutors in Georgia<br>
 is a frequent case, a rare case, or never the case? (%)""",
     """In your opinion, prosecutors in Georgia making deals with judges<br>
@@ -16,14 +15,12 @@ case, a rare case, or never the case? (%)""",
 ]
 
 
-df1 = pd.read_csv('chart1.csv')
-df2 = pd.read_csv('chart2.csv')
-df3 = pd.read_csv('chart3.csv')
 
 
 # %%
 
 #%%
+df1 = pd.read_csv("chart1.csv")
 colors1 = ["midnightblue", "maroon", "teal", "dimgray"]
 
 title = """
@@ -32,7 +29,7 @@ By In your opinion, who should inherit the apartment? (%)
 <br>(CRRC, Caucasus Barometer 2019, Georgia)
 """
 
-y = df1['index']
+y = df1["index"]
 fig = go.Figure()
 
 annotations = []
@@ -77,9 +74,7 @@ for yd, xd in zip(y, df1[df1.columns[1:]].values):
                     x=space + (xd[i] / 2),
                     y=yd,
                     text=txt,
-                    font=dict(
-                        family="sans-serif", size=12, color="rgb(248, 248, 255)"
-                    ),
+                    font=dict(family="sans-serif", size=12, color="rgb(248, 248, 255)"),
                     showarrow=False,
                 )
             )
@@ -97,14 +92,60 @@ fig.update_layout(
 )
 fig.update_yaxes(tickvals=y)
 fig.show()
-fig.write_html(f"test.html")
+fig.write_html(f"chart1.html")
 
-# %%
-df2
+
 #%%
 
-import plotly.express as px
+title = """Who should inherit the apartment?<br>
+Marginal effects on the dependent variable<br>
+(CRRC, Caucasus Barometer 2019, Georgia)
+"""
 
-fig = px.scatter(df2, x="value", y="demographic", facet_col="response", error_x='conf')
-# fig.update_xaxes(range=[-0.5, 0.5], col=1)
+df2 = pd.read_csv("chart2.csv")
+df2[["value", "conf"]] = df2[["value", "conf"]] * 100
+
+fig = px.scatter(
+    df2, x="value", y="demographic", facet_col="response", error_x="conf", title=title
+)
+fig.for_each_annotation(lambda a: a.update(text=a.text.split("=")[1].title()))
+fig.update_layout(
+    {"titlefont": {"size": 16},},
+    title={
+        # 'text': "Plot Title",
+        "y": 0.92,
+        # 'x':0.5,
+        # 'xanchor': 'center',
+        "yanchor": "top",
+    },
+)
+
+fig["layout"]["yaxis"]["title"]["text"] = ""
+fig["layout"]["xaxis"]["title"]["text"] = ""
+fig["layout"]["xaxis3"]["title"]["text"] = ""
+fig["layout"]["xaxis2"]["title"]["text"] = ""
+
+fig.update_layout(
+    autosize=False, width=800, height=400, margin=dict(l=50, r=50, b=50, t=115, pad=1)
+)
+
+
 fig.show()
+fig.write_html(f"chart2.html")
+# %%
+title = """
+ Who should inherit the apartment?<br>
+ Adjusted predictions with 95% confidence intervals<br>
+ (CRRC, Caucasus Barometer 2019, Georgia)
+"""
+df3 = pd.read_csv("chart3.csv")
+fig = px.line(df3, x="x", y="value", color="outcome", error_y="conf", title=title,color_discrete_sequence=px.colors.qualitative.Safe)
+
+
+fig.update_layout(
+    autosize=False, width=800, height=400, margin=dict(l=50, r=50, b=50, t=115, pad=1)
+)
+fig["layout"]["yaxis"]["title"]["text"] = "Predicted scores"
+fig["layout"]["xaxis"]["title"]["text"] = "Conservatism index"
+fig.show()
+fig.write_html("chart3.html")
