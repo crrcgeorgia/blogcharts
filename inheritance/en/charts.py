@@ -5,15 +5,6 @@ import plotly.graph_objects as go
 import plotly.express as px
 
 colors2 = ["maroon", "orange", "midnightblue", "dimgray"]
-# color_list = [colors1, colors2, colors2]
-titles = [
-    """In your opinion, abuse of power by prosecutors in Georgia<br>
-is a frequent case, a rare case, or never the case? (%)""",
-    """In your opinion, prosecutors in Georgia making deals with judges<br>
-in order to have decisions favourable for them is a frequent<br>
-case, a rare case, or never the case? (%)""",
-]
-
 
 
 
