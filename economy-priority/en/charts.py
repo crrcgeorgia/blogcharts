@@ -10,6 +10,7 @@ c1, c2, c3, c4, c5 = [
 colors = ["#ef8a62", "gold", "#67a9cf"]
 two_colors = ["#ef8a62", "#67a9cf"]
 #%%
+
 title = "The first and the second most important issues <br>facing Georgia (%)"
 fig = px.bar(
     c1.melt("x"),
@@ -98,7 +99,6 @@ fig = px.line(
     x="variable",
     y="value",
     color="x",
-<<<<<<< HEAD
     # text='value',
     title=title,
     color_discrete_sequence=colors,
@@ -162,24 +162,6 @@ for _, tup in c5.melt("x")[["variable", "value"]].iterrows():
     )
 
 fig.update_layout(annotations=annotations)
-=======
-    text='value',
-    title=title,
-    color_discrete_sequence=colors,
-)
-fig.update_layout(legend_orientation="h", xaxis_title="", yaxis_title="", legend_title_text='')
-fig.update_traces(texttemplate="%{text:.0f}")
-fig["layout"]["yaxis1"].update(range=[0, 100])
-fig.update_layout(
-
-    xaxis = dict(
-        tickmode = 'array',
-        tickvals = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019],
-        ticktext = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019]
-    )
-)
-
->>>>>>> 2d1dbb7900aeaa94042a342b2a87cdbe218ca735
 
 fig.show()
 fig.write_html("chart5.html")
