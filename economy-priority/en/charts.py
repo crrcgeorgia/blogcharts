@@ -98,6 +98,71 @@ fig = px.line(
     x="variable",
     y="value",
     color="x",
+<<<<<<< HEAD
+    # text='value',
+    title=title,
+    color_discrete_sequence=colors,
+)
+fig.update_layout(
+    legend_orientation="h", xaxis_title="", yaxis_title="", legend_title_text=""
+)
+fig.update_traces(texttemplate="%{text:.0f}")
+fig["layout"]["yaxis1"].update(range=[0, 100])
+fig.update_layout(
+    xaxis=dict(
+        tickmode="array",
+        tickvals=[
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+        ],
+        ticktext=[
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+        ],
+    )
+)
+
+annotations = []
+
+for _, tup in c5.melt("x")[["variable", "value"]].iterrows():
+    x = tup[0]
+    y = tup[1]
+
+    # labeling the first percentage of each bar (x_axis)
+    annotations.append(
+        dict(
+            xref="x",
+            yref="y",
+            x=x,
+            y=y,
+            text=str(int(y)),
+            font=dict(family="Calibri", size=12, color="rgb(0, 0, 0)"),
+            showarrow=False,
+        )
+    )
+
+fig.update_layout(annotations=annotations)
+=======
     text='value',
     title=title,
     color_discrete_sequence=colors,
@@ -114,6 +179,7 @@ fig.update_layout(
     )
 )
 
+>>>>>>> 2d1dbb7900aeaa94042a342b2a87cdbe218ca735
 
 fig.show()
 fig.write_html("chart5.html")
