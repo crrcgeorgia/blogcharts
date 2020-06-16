@@ -12,7 +12,7 @@ df1 = pd.read_csv("chart1.csv")
 colors1 = ["midnightblue", "maroon", "teal", "dimgray"]
 
 title = """
-თქვენი აზრით, ვის საკუთრებაში უნდა გადავიდეს ბინა? <br>
+თქვენი აზრით, ვის საკუთრებაში უნდა გადავიდეს ბინა?<br>
 პასუხების მიხედვით კითხვაზე, ვინ უნდა იზრუნოს<br>
 მშობლებზე ვაჟმა თუ ქალიშვილმა? (%)<br>
 (CRRC, კავკასიის ბარომეტრი 2019, საქართველო)
@@ -112,7 +112,7 @@ fig.update_layout(
     },
 )
 
-fig["layout"]["yaxis"]["title"]["text"] = " "
+fig["layout"]["yaxis"]["title"]["text"] = ""
 fig["layout"]["xaxis"]["title"]["text"] = ""
 fig["layout"]["xaxis3"]["title"]["text"] = ""
 fig["layout"]["xaxis2"]["title"]["text"] = ""
