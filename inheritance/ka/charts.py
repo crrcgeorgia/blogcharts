@@ -7,8 +7,6 @@ import plotly.express as px
 colors2 = ["maroon", "orange", "midnightblue", "dimgray"]
 
 
-# %%
-
 #%%
 df1 = pd.read_csv("chart1.csv")
 colors1 = ["midnightblue", "maroon", "teal", "dimgray"]
@@ -19,6 +17,7 @@ title = """
 მშობლებზე ვაჟმა თუ ქალიშვილმა? (%)<br>
 (CRRC, კავკასიის ბარომეტრი 2019, საქართველო)
 """
+
 
 y = df1["index"]
 fig = go.Figure()
