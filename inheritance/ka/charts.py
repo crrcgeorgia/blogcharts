@@ -7,7 +7,6 @@ import plotly.express as px
 colors2 = ["maroon", "orange", "midnightblue", "dimgray"]
 
 
-
 # %%
 
 #%%
@@ -15,7 +14,7 @@ df1 = pd.read_csv("chart1.csv")
 colors1 = ["midnightblue", "maroon", "teal", "dimgray"]
 
 title = """
-თქვენი აზრით, ვის საკუთრებაში უნდა გადავიდეს ბინა?<br>
+თქვენი აზრით, ვის საკუთრებაში უნდა გადავიდეს ბინა? <br>
 პასუხების მიხედვით კითხვაზე, ვინ უნდა იზრუნოს<br>
 მშობლებზე ვაჟმა თუ ქალიშვილმა? (%)<br>
 (CRRC, კავკასიის ბარომეტრი 2019, საქართველო)
@@ -73,7 +72,8 @@ for yd, xd in zip(y, df1[df1.columns[1:]].values):
             space += xd[i]
 
 fig.update_layout(
-    title=dict(y=0.95, text=title), font=dict(family="sans-serif", size=12, color="#7f7f7f"),
+    title=dict(y=0.95, text=title),
+    font=dict(family="sans-serif", size=12, color="#7f7f7f"),
 )
 fig.update_layout(
     barmode="stack",
@@ -113,7 +113,7 @@ fig.update_layout(
     },
 )
 
-fig["layout"]["yaxis"]["title"]["text"] = ""
+fig["layout"]["yaxis"]["title"]["text"] = " "
 fig["layout"]["xaxis"]["title"]["text"] = ""
 fig["layout"]["xaxis3"]["title"]["text"] = ""
 fig["layout"]["xaxis2"]["title"]["text"] = ""
@@ -125,3 +125,5 @@ fig.update_layout(
 
 fig.show()
 fig.write_html(f"chart2.html")
+
+# %%
