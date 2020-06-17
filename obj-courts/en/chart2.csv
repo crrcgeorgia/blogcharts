@@ -1,0 +1,9 @@
+g,x,y
+Settlement type,Capital,0.75
+Settlement type,Urban  ,0.61
+Settlement type,Rural  ,0.57
+Ethnicity,Georgian,0.67
+Ethnicity,Non-Georgian,0.47
+Education,Secondary or lower,0.58
+Education,Secondary technical,0.69
+Education,Higher than secondary,0.67
