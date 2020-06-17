@@ -26,8 +26,10 @@ fig.update_layout(
     yaxis_title="",
     legend=dict(x=-0, y=-1.5),
 )
-fig["layout"]["yaxis1"].update(range=[0, 1], tickformat=".0%")
+fig["layout"]["yaxis1"].update(range=[0, 1], tickformat=".0%", fixedrange=True)
+fig["layout"]["xaxis1"].update(tickfont=dict(size=10), fixedrange=True)
 fig.update_traces(texttemplate="%{text:.0%}", textposition="outside")
+
 
 fig.show()
 fig.write_html("chart1.html")
@@ -53,7 +55,9 @@ fig.update_layout(
     yaxis_title="",
     legend=dict(x=-0, y=-1.5),
 )
-fig["layout"]["yaxis1"].update(range=[0, 1], tickformat=".0%")
+
+fig["layout"]["yaxis1"].update(range=[0, 1], tickformat=".0%", fixedrange=True)
+fig["layout"]["xaxis1"].update(fixedrange=True)
 fig.update_traces(texttemplate="%{text:.0%}", textposition="outside")
 
 fig.show()
@@ -81,8 +85,11 @@ fig.update_layout(
     yaxis_title="",
     legend=dict(x=-0, y=-1.5),
 )
-fig["layout"]["yaxis1"].update(range=[0, 1], tickformat=".0%")
+fig["layout"]["yaxis1"].update(range=[0, 1], tickformat=".0%", fixedrange=True)
+fig["layout"]["xaxis1"].update(fixedrange=True)
 fig.update_traces(texttemplate="%{text:.0%}", textposition="outside")
 
 fig.show()
 fig.write_html("chart3.html")
+
+# %%
