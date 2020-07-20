@@ -71,13 +71,13 @@ def group_bar(lang, title, suffix):
         fig.add_bar(x=x, y=df[y_lab], name=y_lab, text=df[y_lab], textfont=dict(size=8,))
         fig["data"][n]["marker"].update({"color": colors[n]})
     fig.update_layout(
-        title=None,
+        title=title,
         width=800 * 0.87,
         height=600 * 0.87,
         legend_orientation="h",
         xaxis_title="",
         yaxis_title="",
-        legend=dict(x=-0, y=-0.7, yanchor='bottom'),
+        legend=dict(x=-0, y=-0.9, yanchor='bottom'),
 
     )
     fig["layout"]["yaxis1"].update(range=[0, 100])
