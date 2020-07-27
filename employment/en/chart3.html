@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="googlebot" content="noindex, nofollow">
+  <script type="text/javascript" src="/js/lib/dummy.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/result-light.css">
+  <style type="text/css">
+    
+  </style>
+
+  <title>Grit among Georgian youth</title>
+
+  
+</head>
+
+<body>
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="http://code.highcharts.com/stock/highstock.js"></script>
+<script src="http://code.highcharts.com/stock/modules/exporting.js"></script>
+<script src="js/grouped-categories.js"></script>
+<div id="container" style="min-width: 100; height: 200; margin: 0 auto"></div>
+
+  
+
+ <style type="text/css">
+@font-face {
+    font-family: "BPG_upper";
+	src:url("fonts/BPG_GEL_Excelsior_Caps.ttf");
+}
+@font-face {
+    font-family: "BPG_lower";
+	src:url("fonts/BPG_Excelsior.ttf");
+}
+  </style>
+  
+
+
+<script type='text/javascript'>//<![CDATA[
+
+Highcharts.chart('container', {
+    chart: {
+        type: 'bar'
+    },
+	credits: {enabled: false
+	},
+	responsive: {
+	  rules: [{
+		condition: {
+		  maxWidth: 500
+		},
+		chartOptions: {
+		  legend: {
+			enabled: true
+		  }
+		}
+	  }]
+	},
+
+
+    title: {
+        text: "Reasons for not wanting a vaccine among the 43% of the public that reported<br>they would not want a vaccine (%)",
+		style:{
+		fontFamily: "BPG_upper"
+		}
+    },
+    subtitle: {
+        text: "(CRRC Covid Monitor)",
+		style:{
+			fontFamily: "BPG_lower"
+		}
+    },
+		responsive: {
+			  rules: [{
+				condition: {
+				  maxWidth: 500
+				}
+			  }]
+	},
+	
+    xAxis: [{
+	reversed: false,
+        categories: ["Don\'t Know", "Refuse to answer", "I am pregnant", "Lack of information about a vaccine", "Everything is in god\'s grace", "Alternative treatments are better", "Afraid of needles", "Thinks threat of corona is exaggerated", "Has negative thoughts about vaccines", "Because of age", "They will use it to insert microchips in me", "Not sure now, but I may change my mind", "Do not want", "Cannot take because of health-related issues", "Thinks own immune system is strong enough to deal with Covid 19", "Do not see the need for a vaccine", "Do not trust vaccines", "Vaccines are not effective at treating disease", "Vaccines create larger health problems for people who receive them", "Not thoroughly enough tested in six months"]
+//		labels: {
+//            rotation: -90
+//        }
+	}],
+	
+    yAxis: {
+		reversed: false,
+        min: 0,
+        max: 50,
+		tickInterval: 10,
+        title: {
+            text: ''
+        }
+    },
+    legend: {
+        //align: 'center',
+        //verticalAlign: 'top',
+        //floating: true,
+		reversed: false
+    },
+    plotOptions: {
+        series: {
+            stacking: true,
+			dataLabels: {
+							enabled: true,
+						style: {
+							color: 'black',
+							fontWeight: 'bold',
+							textOutline: false
+					   }
+					}
+        }
+    },
+    series: [{
+		showInLegend: false,
+		name: null,
+        data: [11, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 6, 7, 8, 11, 14, 40  ],
+		color: '#b2c5e5'
+    }]
+
+
+});
+
+</script>
+
+  <script>
+  // tell the embed parent frame the height of the content
+  // if (window.parent && window.parent.parent){
+      // window.parent.parent.postMessage(["resultsFrame", {
+        // height: document.body.getBoundingClientRect().height,
+        // slug: "None"
+      // }], "*")
+    // }
+</script>
+
+</body>
+
+</html>
+
