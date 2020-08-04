@@ -4,7 +4,7 @@ import plotly.express as px
 
 df = pd.read_csv("church-scandal.csv")
 
-six_colors = ["#ca0020", "#f4a582", "#f7f7f7", "#92c5de", "#0571b0", "grey"]
+six_colors = ["darkgrey", "#ca0020", "#f4a582", "#f7f7f7", "#92c5de", "#0571b0"][::-1]
 #%%
 fig = px.bar(
     df.melt("label"),
