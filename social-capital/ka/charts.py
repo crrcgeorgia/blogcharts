@@ -3,6 +3,8 @@
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+
+
 #%%
 c1 = pd.read_csv("chart1.csv")
 c1["x"] = c1["x"].astype(str)
@@ -20,7 +22,7 @@ fig1
 
 c2 = pd.read_csv("chart2.csv")
 c2["x"] = c2["x"].astype(str)
-t2 = "Index of cognitive social capital - frequency distribution<br>(Caucasus Barometer 2019)"
+t2 = "<b>Index of structural social capital - frequency distribution<br>(Caucasus Barometer 2019)</b>"
 
 fig2 = px.bar(c2, x="x", text="y", y="y", title=t2, width=800, height=400)
 fig2.update_layout(xaxis={"title": None}, yaxis={"title": None, "range": [0, 50]})
@@ -31,7 +33,7 @@ fig2
 
 #%%
 c3 = pd.read_csv("chart3.csv")
-title = "Index of cognitive social capital<br>(Caucasus Barometer 2019)"
+title = "<b>სტრუქტურული სოციალური კაპიტალის ინდექსი</b><br>(კავკასიის ბარომეტრი 2019)"
 fig = px.line(
     c3,
     x="response",
@@ -50,13 +52,11 @@ fig.update_xaxes(showticklabels=True)
 
 for axis in fig.layout:
     if type(fig.layout[axis]) == go.layout.YAxis:
-        fig.layout[axis].title.text = ''
+        fig.layout[axis].title.text = ""
     if type(fig.layout[axis]) == go.layout.XAxis:
-        fig.layout[axis].title.text = ''
+        fig.layout[axis].title.text = ""
 
 fig.write_html("chart3.html")
-
-
-# %%
 fig
+
 # %%

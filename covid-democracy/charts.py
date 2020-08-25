@@ -9,7 +9,7 @@ colors = ["#d7191c", "#fdae61", "#ffffbf", "#abd9e9", "#2c7bb6",][::-1]
 #%%
 
 ch1_title_en = "Attitudes towards democracy (%)"
-
+ch1_title_ru = "Отношение к демократии (%)"
 
 def stacked_bar(lang, title, suffix, n, bar_type='group'):
     path = f"{lang}/chart{n}.csv"
@@ -55,9 +55,13 @@ def stacked_bar(lang, title, suffix, n, bar_type='group'):
     fig.write_html(f"{lang}/chart_{suffix}_{n}.html")
 
 ch2_title_en = "To what extent is it acceptable or unacceptable to (%)"
+ch2_title_ru = "Насколько это приемлемо или неприемлемо (%)"
 
 stacked_bar("en", ch1_title_en, None, "1")
 stacked_bar("en", ch2_title_en, None, "2", bar_type='stack')
+
+stacked_bar("ru", ch1_title_ru, None, "1")
+stacked_bar("ru", ch2_title_ru, None, "2", bar_type='stack')
 
 # %%
 
