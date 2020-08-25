@@ -40,7 +40,7 @@ def stacked_bar(lang, title, suffix, n, bar_type='group'):
         legend=dict(
             orientation="h",
             yanchor="auto",
-            y=-0.1,
+            y=-0.2,
             xanchor="auto",
             x=0,
             title="",
@@ -57,11 +57,13 @@ def stacked_bar(lang, title, suffix, n, bar_type='group'):
 ch2_title_en = "To what extent is it acceptable or unacceptable to (%)"
 ch2_title_ru = "Насколько это приемлемо или неприемлемо (%)"
 
-stacked_bar("en", ch1_title_en, None, "1")
-stacked_bar("en", ch2_title_en, None, "2", bar_type='stack')
 
-stacked_bar("ru", ch1_title_ru, None, "1")
+# %%
 stacked_bar("ru", ch2_title_ru, None, "2", bar_type='stack')
 
 # %%
 
+stacked_bar("en", ch1_title_en, None, "1")
+stacked_bar("en", ch2_title_en, None, "2", bar_type='stack')
+
+stacked_bar("ru", ch1_title_ru, None, "1")
