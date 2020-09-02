@@ -9,7 +9,7 @@ colors = ["darkgrey", "#d7191c", "#fdae61", "#f7f7f7", "#abd9e9", "#2c7bb6",][::
 #%%
 c3 = pd.read_csv("en/chart1.csv")
 fig = go.Figure()
-title = "Predicted probability of preferring democracy to any other kind of government<br>by settlement, ethincity and education (%)"
+title = "Institutional performance (%)"
 
 x = c3[["label", "group"]].T
 for n, y_lab in enumerate(c3.columns[2:]):
