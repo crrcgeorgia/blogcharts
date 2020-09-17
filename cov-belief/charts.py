@@ -7,14 +7,15 @@ c1, c2, c3 = [pd.read_csv(f'en/chart{i}.csv') for i in range(1, 4)]
 config = {'displaylogo': False, 'scrollZoom': False, 'displayModeBar': False}
 # %%
 title = '''
-<b>There is news circulating regarding 5G technologies and coronavirus<br>
+<b>There is news circulating regarding 5G technologies and coronavirus.<br>
 Do you agree or disagree that 5G internet infrastructure is linked<br>
 to the spread of coronavirus? (%)</b><br>CRRC/NDI Survey June 2020
 '''
 fig = px.bar(c1, 'x', 'y', text='y', title=title)
 fig.update_layout(xaxis_title="", yaxis_title="%",
                   dragmode=False, title={'y': 0.95}, font={"size": 10})
-fig.update_yaxes(range=[0, 50])
+fig.update_yaxes(range=[0, 100])
+fig.update_traces(texttemplate="%{text:0.0f}")
 fig.show(config=config)
 fig.write_html('en/chart1.html', config=config)
 # %%
@@ -41,7 +42,7 @@ fig.write_html('en/chart2.html', config=config)
 
 # %%
 title = '''
-<b>There is news circulating regarding 5G technologies and coronavirus<br>
+<b>There is news circulating regarding 5G technologies and coronavirus.<br>
 Do you agree or disagree that 5G internet infrastructure is linked<br>
 to the spread of coronavirus? (%)</b><br>CRRC/NDI Survey June 2020
 '''
