@@ -91,3 +91,35 @@ fig.update_layout(legend=dict(
 
 fig.show()
 fig.write_html('chart3.html')
+
+# %%
+# df2['q'] = df2['q'].str.replace('<br>', ' ')
+fig = px.scatter(df2, x='x', y=['q', 'y'],
+                 facet_row='q', color='g', color_discrete_sequence=colors, width=800, height=600, title="Never acceptable for a woman in Georgia to… (%)", facet_row_spacing=0.05)
+
+fig.update_xaxes(range=[0, 100])
+fig.for_each_annotation(lambda a: a.update(
+    text=f'<b>{a.text.split("=")[-1]}<b>', textangle=0, x=-0.4, align='left'))
+fig.update_layout(
+    margin=dict(l=250, r=20, t=80, b=20),
+)
+fig.update_traces(marker={'size':16, 'opacity':0.75})
+for axis in fig.layout:
+    if type(fig.layout[axis]) in [go.layout.XAxis, go.layout.YAxis]:
+        fig.layout[axis].title.text = ''
+    if type(fig.layout[axis]) == go.layout.YAxis:
+        fig.layout[axis].tickmode = 'array'
+        fig.layout[axis].tickvals = [2019, 2010]
+fig.update_layout(legend=dict(
+    orientation="h",
+    yanchor="bottom",
+    y=1,
+    xanchor="right",
+    x=1,
+    title=''
+
+))
+
+
+fig.show()
+fig.write_html('chart4.html')
