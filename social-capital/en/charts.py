@@ -2,7 +2,7 @@
 
 import pandas as pd
 import plotly.express as px
-
+import plotly.graph_objects as go
 #%%
 c1 = pd.read_csv("chart1.csv")
 c1["x"] = c1["x"].astype(str)
@@ -20,7 +20,7 @@ fig1
 
 c2 = pd.read_csv("chart2.csv")
 c2["x"] = c2["x"].astype(str)
-t2 = "Index of structural social capital - frequency distribution<br>(Caucasus Barometer 2019)"
+t2 = "Index of cognitive social capital - frequency distribution<br>(Caucasus Barometer 2019)"
 
 fig2 = px.bar(c2, x="x", text="y", y="y", title=t2, width=800, height=400)
 fig2.update_layout(xaxis={"title": None}, yaxis={"title": None, "range": [0, 50]})
@@ -47,7 +47,16 @@ fig.for_each_annotation(lambda a: a.update(text=a.text.split("=")[-1]))
 fig.update_xaxes(matches=None)
 fig.update_layout(xaxis={"title": None}, yaxis={"title": None, "range": [0, 6]})
 fig.update_xaxes(showticklabels=True)
+
+for axis in fig.layout:
+    if type(fig.layout[axis]) == go.layout.YAxis:
+        fig.layout[axis].title.text = ''
+    if type(fig.layout[axis]) == go.layout.XAxis:
+        fig.layout[axis].title.text = ''
+
 fig.write_html("chart3.html")
 
 
+# %%
+fig
 # %%

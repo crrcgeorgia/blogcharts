@@ -1,0 +1,53 @@
+﻿facet,x1,x2,y,err
+Index of ownership of household items,Came about naturally ,0,0.1328187,0.0992927
+Index of ownership of household items,Came about naturally ,1,0.1397206,0.0886713
+Index of ownership of household items,Came about naturally ,2,0.1460077,0.07691695
+Index of ownership of household items,Came about naturally ,3,0.1515707,0.06435615
+Index of ownership of household items,Came about naturally ,4,0.1563154,0.05152565
+Index of ownership of household items,Came about naturally ,5,0.1601663,0.03947405
+Index of ownership of household items,Came about naturally ,6,0.1630693,0.0305768
+Index of ownership of household items,Came about naturally ,7,0.1649928,0.0290745
+Index of ownership of household items,Came about naturally ,8,0.1659279,0.0363915
+Index of ownership of household items,Came about naturally ,9,0.1658874,0.04879635
+Index of ownership of household items,Came about naturally ,10,0.1649045,0.0632395
+Index of ownership of household items,Was developed in a lab and spread intentionally ,0,0.5595897,0.1754262
+Index of ownership of household items,Was developed in a lab and spread intentionally ,1,0.5514269,0.1471122
+Index of ownership of household items,Was developed in a lab and spread intentionally ,2,0.5397816,0.12126855
+Index of ownership of household items,Was developed in a lab and spread intentionally ,3,0.5248771,0.09740845
+Index of ownership of household items,Was developed in a lab and spread intentionally ,4,0.5070099,0.0753893
+Index of ownership of household items,Was developed in a lab and spread intentionally ,5,0.4865377,0.05594195
+Index of ownership of household items,Was developed in a lab and spread intentionally ,6,0.4638658,0.0419063
+Index of ownership of household items,Was developed in a lab and spread intentionally ,7,0.4394301,0.03906685
+Index of ownership of household items,Was developed in a lab and spread intentionally ,8,0.413681,0.04882035
+Index of ownership of household items,Was developed in a lab and spread intentionally ,9,0.3870671,0.06493835
+Index of ownership of household items,Was developed in a lab and spread intentionally ,10,0.3600205,0.08274895
+Index of ownership of household items,Was developed in a lab and spread accidentally  ,0,0.1601293,0.0940262
+Index of ownership of household items,Was developed in a lab and spread accidentally  ,1,0.183165,0.08958355
+Index of ownership of household items,Was developed in a lab and spread accidentally  ,2,0.2080801,0.0826436
+Index of ownership of household items,Was developed in a lab and spread accidentally  ,3,0.234773,0.0732827
+Index of ownership of household items,Was developed in a lab and spread accidentally  ,4,0.2631009,0.061926
+Index of ownership of household items,Was developed in a lab and spread accidentally  ,5,0.2928825,0.04975295
+Index of ownership of household items,Was developed in a lab and spread accidentally  ,6,0.323903,0.03980385
+Index of ownership of household items,Was developed in a lab and spread accidentally  ,7,0.3559197,0.038215
+Index of ownership of household items,Was developed in a lab and spread accidentally  ,8,0.3886691,0.0486593
+Index of ownership of household items,Was developed in a lab and spread accidentally  ,9,0.4218747,0.0670574
+Index of ownership of household items,Was developed in a lab and spread accidentally  ,10,0.455255,0.0890636
+Index of ownership of household items,Doesn’t really exist,0,0.1474623,0.14851595
+Index of ownership of household items,Doesn’t really exist,1,0.1256875,0.1125418
+Index of ownership of household items,Doesn’t really exist,2,0.1061305,0.0821315
+Index of ownership of household items,Doesn’t really exist,3,0.0887791,0.05739235
+Index of ownership of household items,Doesn’t really exist,4,0.0735739,0.0383338
+Index of ownership of household items,Doesn’t really exist,5,0.0604135,0.02504455
+Index of ownership of household items,Doesn’t really exist,6,0.0491619,0.0177565
+Index of ownership of household items,Doesn’t really exist,7,0.0396574,0.0157234
+Index of ownership of household items,Doesn’t really exist,8,0.031722,0.0161827
+Index of ownership of household items,Doesn’t really exist,9,0.0251708,0.01680815
+Index of ownership of household items,Doesn’t really exist,10,0.01982,0.0168036
+Gender,Came about naturally ,Male,0.1378117,0.03710565
+Gender,Came about naturally ,Female,0.1845148,0.04215095
+Gender,Was developed in a lab and spread intentionally ,Male,0.4995684,0.0595837
+Gender,Was developed in a lab and spread intentionally ,Female,0.398634,0.05376805
+Gender,Was developed in a lab and spread accidentally  ,Male,0.2772233,0.05044235
+Gender,Was developed in a lab and spread accidentally  ,Female,0.3941315,0.0546303
+Gender,Doesn’t really exist,Male,0.0853966,0.0374889
+Gender,Doesn’t really exist,Female,0.0227197,0.01679615
