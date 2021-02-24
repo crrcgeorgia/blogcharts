@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2420"
-   height="1077"
-   overflow="hidden"
-   version="1.1"
-   id="svg895"
+   inkscape:version="1.0beta1 (fe3e306, 2019-09-17)"
    sodipodi:docname="chart_1.svg"
-   inkscape:version="1.0beta1 (fe3e306, 2019-09-17)">
+   id="svg895"
+   version="1.1"
+   overflow="hidden"
+   height="1077"
+   width="2420">
   <metadata
      id="metadata899">
     <rdf:RDF>
@@ -26,2811 +26,2232 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     inkscape:document-rotation="0"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     id="namedview897"
-     showgrid="false"
-     inkscape:zoom="0.27583008"
-     inkscape:cx="906.54746"
-     inkscape:cy="947.13273"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:current-layer="svg895"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg895" />
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="662.9016"
+     inkscape:cx="1922.1848"
+     inkscape:zoom="0.39008264"
+     showgrid="false"
+     id="namedview897"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <defs
      id="defs383">
     <clipPath
        id="clip0">
       <rect
-         x="2341"
-         y="1187"
-         width="2420"
+         id="rect2"
          height="1077"
-         id="rect2" />
+         width="2420"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip1">
       <rect
-         x="3256"
-         y="1210"
-         width="1503"
+         id="rect5"
          height="933"
-         id="rect5" />
+         width="1503"
+         y="1210"
+         x="3256" />
     </clipPath>
     <clipPath
        id="clip2">
       <rect
-         x="3256"
-         y="1210"
-         width="1503"
+         id="rect8"
          height="933"
-         id="rect8" />
+         width="1503"
+         y="1210"
+         x="3256" />
     </clipPath>
     <clipPath
        id="clip3">
       <rect
-         x="3256"
-         y="1210"
-         width="1503"
+         id="rect11"
          height="933"
-         id="rect11" />
+         width="1503"
+         y="1210"
+         x="3256" />
     </clipPath>
     <clipPath
        id="clip4">
       <rect
-         x="3256"
-         y="1210"
-         width="1503"
+         id="rect14"
          height="933"
-         id="rect14" />
+         width="1503"
+         y="1210"
+         x="3256" />
     </clipPath>
     <clipPath
        id="clip5">
       <rect
-         x="3256"
-         y="1210"
-         width="1503"
+         id="rect17"
          height="933"
-         id="rect17" />
+         width="1503"
+         y="1210"
+         x="3256" />
     </clipPath>
     <clipPath
        id="clip6">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect20"
          height="1074"
-         id="rect20" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip7">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect23"
          height="1074"
-         id="rect23" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip8">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect26"
          height="1074"
-         id="rect26" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip9">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect29"
          height="1074"
-         id="rect29" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip10">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect32"
          height="1074"
-         id="rect32" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip11">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect35"
          height="1074"
-         id="rect35" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip12">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect38"
          height="1074"
-         id="rect38" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip13">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect41"
          height="1074"
-         id="rect41" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip14">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect44"
          height="1074"
-         id="rect44" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip15">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect47"
          height="1074"
-         id="rect47" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip16">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect50"
          height="1074"
-         id="rect50" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip17">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect53"
          height="1074"
-         id="rect53" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip18">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect56"
          height="1074"
-         id="rect56" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip19">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect59"
          height="1074"
-         id="rect59" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip20">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect62"
          height="1074"
-         id="rect62" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip21">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect65"
          height="1074"
-         id="rect65" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip22">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect68"
          height="1074"
-         id="rect68" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip23">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect71"
          height="1074"
-         id="rect71" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip24">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect74"
          height="1074"
-         id="rect74" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip25">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect77"
          height="1074"
-         id="rect77" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip26">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect80"
          height="1074"
-         id="rect80" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip27">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect83"
          height="1074"
-         id="rect83" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip28">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect86"
          height="1074"
-         id="rect86" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip29">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect89"
          height="1074"
-         id="rect89" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip30">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect92"
          height="1074"
-         id="rect92" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip31">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect95"
          height="1074"
-         id="rect95" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip32">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect98"
          height="1074"
-         id="rect98" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip33">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect101"
          height="1074"
-         id="rect101" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip34">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect104"
          height="1074"
-         id="rect104" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip35">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect107"
          height="1074"
-         id="rect107" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip36">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect110"
          height="1074"
-         id="rect110" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip37">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect113"
          height="1074"
-         id="rect113" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip38">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect116"
          height="1074"
-         id="rect116" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip39">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect119"
          height="1074"
-         id="rect119" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip40">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect122"
          height="1074"
-         id="rect122" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip41">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect125"
          height="1074"
-         id="rect125" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip42">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect128"
          height="1074"
-         id="rect128" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip43">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect131"
          height="1074"
-         id="rect131" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip44">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect134"
          height="1074"
-         id="rect134" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip45">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect137"
          height="1074"
-         id="rect137" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip46">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect140"
          height="1074"
-         id="rect140" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip47">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect143"
          height="1074"
-         id="rect143" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip48">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect146"
          height="1074"
-         id="rect146" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip49">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect149"
          height="1074"
-         id="rect149" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip50">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect152"
          height="1074"
-         id="rect152" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip51">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect155"
          height="1074"
-         id="rect155" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip52">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect158"
          height="1074"
-         id="rect158" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip53">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect161"
          height="1074"
-         id="rect161" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip54">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect164"
          height="1074"
-         id="rect164" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip55">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect167"
          height="1074"
-         id="rect167" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip56">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect170"
          height="1074"
-         id="rect170" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip57">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect173"
          height="1074"
-         id="rect173" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip58">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect176"
          height="1074"
-         id="rect176" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip59">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect179"
          height="1074"
-         id="rect179" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip60">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect182"
          height="1074"
-         id="rect182" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip61">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect185"
          height="1074"
-         id="rect185" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip62">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect188"
          height="1074"
-         id="rect188" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip63">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect191"
          height="1074"
-         id="rect191" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip64">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect194"
          height="1074"
-         id="rect194" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip65">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect197"
          height="1074"
-         id="rect197" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip66">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect200"
          height="1074"
-         id="rect200" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip67">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect203"
          height="1074"
-         id="rect203" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip68">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect206"
          height="1074"
-         id="rect206" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip69">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect209"
          height="1074"
-         id="rect209" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip70">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect212"
          height="1074"
-         id="rect212" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip71">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect215"
          height="1074"
-         id="rect215" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip72">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect218"
          height="1074"
-         id="rect218" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip73">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect221"
          height="1074"
-         id="rect221" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip74">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect224"
          height="1074"
-         id="rect224" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip75">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect227"
          height="1074"
-         id="rect227" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip76">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect230"
          height="1074"
-         id="rect230" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip77">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect233"
          height="1074"
-         id="rect233" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip78">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect236"
          height="1074"
-         id="rect236" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip79">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect239"
          height="1074"
-         id="rect239" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip80">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect242"
          height="1074"
-         id="rect242" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip81">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect245"
          height="1074"
-         id="rect245" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip82">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect248"
          height="1074"
-         id="rect248" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip83">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect251"
          height="1074"
-         id="rect251" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip84">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect254"
          height="1074"
-         id="rect254" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip85">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect257"
          height="1074"
-         id="rect257" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip86">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect260"
          height="1074"
-         id="rect260" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip87">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect263"
          height="1074"
-         id="rect263" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip88">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect266"
          height="1074"
-         id="rect266" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip89">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect269"
          height="1074"
-         id="rect269" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip90">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect272"
          height="1074"
-         id="rect272" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip91">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect275"
          height="1074"
-         id="rect275" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip92">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect278"
          height="1074"
-         id="rect278" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip93">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect281"
          height="1074"
-         id="rect281" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip94">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect284"
          height="1074"
-         id="rect284" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip95">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect287"
          height="1074"
-         id="rect287" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip96">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect290"
          height="1074"
-         id="rect290" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip97">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect293"
          height="1074"
-         id="rect293" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip98">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect296"
          height="1074"
-         id="rect296" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip99">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect299"
          height="1074"
-         id="rect299" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip100">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect302"
          height="1074"
-         id="rect302" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip101">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect305"
          height="1074"
-         id="rect305" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip102">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect308"
          height="1074"
-         id="rect308" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip103">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect311"
          height="1074"
-         id="rect311" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip104">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect314"
          height="1074"
-         id="rect314" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip105">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect317"
          height="1074"
-         id="rect317" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip106">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect320"
          height="1074"
-         id="rect320" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip107">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect323"
          height="1074"
-         id="rect323" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip108">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect326"
          height="1074"
-         id="rect326" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip109">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect329"
          height="1074"
-         id="rect329" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip110">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect332"
          height="1074"
-         id="rect332" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip111">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect335"
          height="1074"
-         id="rect335" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip112">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect338"
          height="1074"
-         id="rect338" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip113">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect341"
          height="1074"
-         id="rect341" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip114">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect344"
          height="1074"
-         id="rect344" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip115">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect347"
          height="1074"
-         id="rect347" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip116">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect350"
          height="1074"
-         id="rect350" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip117">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect353"
          height="1074"
-         id="rect353" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip118">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect356"
          height="1074"
-         id="rect356" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip119">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect359"
          height="1074"
-         id="rect359" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip120">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect362"
          height="1074"
-         id="rect362" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip121">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect365"
          height="1074"
-         id="rect365" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip122">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect368"
          height="1074"
-         id="rect368" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip123">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect371"
          height="1074"
-         id="rect371" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip124">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect374"
          height="1074"
-         id="rect374" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip125">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect377"
          height="1074"
-         id="rect377" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
     <clipPath
        id="clip126">
       <rect
-         x="2341"
-         y="1187"
-         width="2418"
+         id="rect380"
          height="1074"
-         id="rect380" />
+         width="2418"
+         y="1187"
+         x="2341" />
     </clipPath>
   </defs>
   <g
-     inkscape:export-ydpi="599.92999"
-     inkscape:export-xdpi="599.92999"
-     id="g768">
+     id="g1022">
     <rect
-       x="15.5017"
-       y="11.8762"
-       width="2417"
-       height="1074"
-       fill="#FFFFFF"
+       style="opacity:1;stop-opacity:1"
        id="rect385"
-       style="opacity:1;stop-opacity:1" />
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip1)"
-       id="g389"
-       style="opacity:1;stop-opacity:1">
-      <path
-         d="m 4176.14,1241.04 h -169.01 v 33 h 169.01 z m -32,93 h -137.01 v 33 h 137.01 z m 60,93.01 h -197.01 v 33 h 197.01 z m -61,93 h -136.01 v 33 h 136.01 z m 95,93 h -231.01 v 33 h 231.01 z m -34,92.01 h -197.01 v 33 h 197.01 z m 34,93 h -231.01 v 33 h 231.01 z m -78,93 h -153.01 v 33 h 153.01 z m -28,93.01 h -125.01 v 33 h 125.01 z m 40,93 h -165.01 v 33 h 165.01 z"
-         fill="#A9D18E"
-         id="path387"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip2)"
-       id="g393"
-       style="opacity:1;stop-opacity:1">
-      <path
-         d="m 4293.14,1241.04 h -117 v 33 h 117 z m 81,93 h -230 v 33 h 230 z m -12,93.01 h -158 v 33 h 158 z m 37,93 h -256 v 33 h 256 z m 38.01,93 h -199.01 v 33 h 199.01 z m 74,92.01 h -307.01 v 33 h 307.01 z m -112.01,93 h -161 v 33 h 161 z m 189.01,93 h -428.01 v 33 h 428.01 z m -110,93.01 h -346.01 v 33 h 346.01 z m 180,93 h -486.01 v 33 h 486.01 z"
-         fill="#467339"
-         id="path391"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip3)"
-       id="g397"
-       style="opacity:1;stop-opacity:1">
-      <path
-         d="m 3727.12,1241.04 h 280.01 v 33 h -280.01 z m 34,93 h 246.01 v 33 h -246.01 z m -82,93.01 h 328.01 v 33 h -328.01 z m 73,93 h 255.01 v 33 h -255.01 z m -54,93 h 309.01 v 33 h -309.01 z m 26,92.01 h 283.01 v 33 h -283.01 z m 17,93 h 266.01 v 33 h -266.01 z m 118.01,93 h 148 v 33 h -148 z m -67.01,93.01 h 215.01 v 33 h -215.01 z m 34.01,93 h 181 v 33 h -181 z"
-         fill="#FB7835"
-         id="path395"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip4)"
-       id="g401"
-       style="opacity:1;stop-opacity:1">
-      <path
-         d="m 3365.11,1241.04 h 362.01 v 33 h -362.01 z m 121,93 h 275.01 v 33 h -275.01 z m 54.01,93.01 h 139 v 33 h -139 z m 6,93 h 206 v 33 h -206 z m 4,93 h 148 v 33 h -148 z m 39,92.01 h 135 v 33 h -135 z m 25,93 h 127 v 33 h -127 z m 40,93 h 205.01 v 33 h -205.01 z m 1,93.01 h 137 v 33 h -137 z m 75,93 h 96.01 v 33 h -96.01 z"
-         fill="#BF0404"
-         id="path399"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip5)"
-       id="g405"
-       style="opacity:1;stop-opacity:1">
-      <path
-         d="m 4304.14,1241.04 h -11 v 33 h 11 z m 121.01,93 h -51.01 v 33 h 51.01 z m 54,93.01 h -117.01 v 33 h 117.01 z m 6,93 h -86.01 v 33 h 86.01 z m 4,93 h -52 v 33 h 52 z m 39,92.01 h -17 v 33 h 17 z m 25,93 h -154.01 v 33 h 154.01 z m 40,93 h -5 v 33 h 5 z m 1,93.01 h -116 v 33 h 116 z m 76,93 h -12 v 33 h 12 z"
-         fill="#A6A6A6"
-         id="path403"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip6)"
-       id="g409"
-       style="opacity:1;stop-opacity:1">
-      <path
-         d="m 4007.5,1210.5 v 930"
-         stroke="#000000"
-         stroke-width="3.4375"
-         stroke-linejoin="round"
-         stroke-miterlimit="10"
-         fill="none"
-         fill-rule="evenodd"
-         id="path407"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip7)"
-       id="g413"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4053"
-         y="1218"
-         width="77.999802"
-         height="79.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect411" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip8)"
-       id="g417"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4066.57,1275)"
-         id="text415">18</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip9)"
-       id="g421"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4037"
-         y="1311"
-         width="78"
-         height="79.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect419" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip10)"
-       id="g425"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4050.76,1368)"
-         id="text423">15</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip11)"
-       id="g429"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4067"
-         y="1403"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect427" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip12)"
-       id="g433"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4080.42,1461)"
-         id="text431">21</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip13)"
-       id="g437"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4036"
-         y="1496"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect435" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip14)"
-       id="g441"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4050,1554)"
-         id="text439">14</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip15)"
-       id="g445"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4084"
-         y="1589"
-         width="78"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect443" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip16)"
-       id="g449"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4097.52,1647)"
-         id="text447">25</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip17)"
-       id="g453"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4067"
-         y="1682"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect451" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip18)"
-       id="g457"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4080.81,1740)"
-         id="text455">21</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip19)"
-       id="g461"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4084"
-         y="1775"
-         width="78"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect459" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip20)"
-       id="g465"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4097.46,1833)"
-         id="text463">25</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip21)"
-       id="g469"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4045"
-         y="1868"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect467" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip22)"
-       id="g473"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4058.63,1926)"
-         id="text471">16</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip23)"
-       id="g477"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4031"
-         y="1961"
-         width="77.999802"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect475" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip24)"
-       id="g481"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4044.85,2019)"
-         id="text479">13</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip25)"
-       id="g485"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4051"
-         y="2054"
-         width="78"
-         height="80"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect483" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip26)"
-       id="g489"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4064.6,2112)"
-         id="text487">18</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip27)"
-       id="g493"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4195"
-         y="1218"
-         width="78"
-         height="79.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect491" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip28)"
-       id="g497"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4209.21,1275)"
-         id="text495">12</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip29)"
-       id="g501"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4220"
-         y="1311"
-         width="78"
-         height="79.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect499" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip30)"
-       id="g505"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4234.21,1368)"
-         id="text503">24</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip31)"
-       id="g509"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4244"
-         y="1403"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect507" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip32)"
-       id="g513"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4257.64,1461)"
-         id="text511">17</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip33)"
-       id="g517"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4232"
-         y="1496"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect515" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip34)"
-       id="g521"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4245.58,1554)"
-         id="text519">27</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip35)"
-       id="g525"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4298"
-         y="1589"
-         width="78"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect523" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip36)"
-       id="g529"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4312.13,1647)"
-         id="text527">21</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip37)"
-       id="g533"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4319"
-         y="1682"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect531" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip38)"
-       id="g537"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4332.41,1740)"
-         id="text535">33</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip39)"
-       id="g541"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4280"
-         y="1775"
-         width="78"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect539" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip40)"
-       id="g545"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4293.49,1833)"
-         id="text543">17</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip41)"
-       id="g549"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4335"
-         y="1868"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect547" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip42)"
-       id="g553"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4348.99,1926)"
-         id="text551">46</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip43)"
-       id="g557"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4267"
-         y="1961"
-         width="78"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect555" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip44)"
-       id="g561"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4280.36,2019)"
-         id="text559">37</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip45)"
-       id="g565"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4376"
-         y="2054"
-         width="78"
-         height="80"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect563" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip46)"
-       id="g569"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4389.89,2112)"
-         id="text567">52</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip47)"
-       id="g573"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3829"
-         y="1218"
-         width="78"
-         height="79.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect571" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip48)"
-       id="g577"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3842.35,1275)"
-         id="text575">30</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip49)"
-       id="g581"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3845"
-         y="1311"
-         width="78"
-         height="79.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect579" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip50)"
-       id="g585"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3859.03,1368)"
-         id="text583">26</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip51)"
-       id="g589"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3804"
-         y="1403"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect587" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip52)"
-       id="g593"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3817.96,1461)"
-         id="text591">35</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip53)"
-       id="g597"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3841"
-         y="1496"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect595" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip54)"
-       id="g601"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3854.77,1554)"
-         id="text599">27</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip55)"
-       id="g605"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3814"
-         y="1589"
-         width="78"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect603" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip56)"
-       id="g609"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3827.4,1647)"
-         id="text607">33</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip57)"
-       id="g613"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3827"
-         y="1682"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect611" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip58)"
-       id="g617"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3840.57,1740)"
-         id="text615">30</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip59)"
-       id="g621"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3836"
-         y="1775"
-         width="77"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect619" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip60)"
-       id="g625"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3849.31,1833)"
-         id="text623">28</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip61)"
-       id="g629"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3895"
-         y="1868"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect627" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip62)"
-       id="g633"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3908.34,1926)"
-         id="text631">16</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip63)"
-       id="g637"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3861"
-         y="1961"
-         width="78"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect635" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip64)"
-       id="g641"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3874.79,2019)"
-         id="text639">23</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip65)"
-       id="g645"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3878"
-         y="2054"
-         width="78"
-         height="80"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect643" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip66)"
-       id="g649"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3891.57,2112)"
-         id="text647">19</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip67)"
-       id="g653"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3507"
-         y="1218"
-         width="78"
-         height="79.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect651" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip68)"
-       id="g657"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3521.04,1275)"
-         id="text655">39</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip69)"
-       id="g661"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3584"
-         y="1311"
-         width="78"
-         height="79.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect659" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip70)"
-       id="g665"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3598.13,1368)"
-         id="text663">29</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip71)"
-       id="g669"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3570"
-         y="1403"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect667" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip72)"
-       id="g673"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3584,1461)"
-         id="text671">15</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip73)"
-       id="g677"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3610"
-         y="1496"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect675" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip74)"
-       id="g681"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3623.89,1554)"
-         id="text679">22</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip75)"
-       id="g685"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3585"
-         y="1589"
-         width="78"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect683" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip76)"
-       id="g689"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3598.53,1647)"
-         id="text687">16</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip77)"
-       id="g693"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3617"
-         y="1682"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect691" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip78)"
-       id="g697"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3631.14,1740)"
-         id="text695">14</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip79)"
-       id="g701"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3639"
-         y="1775"
-         width="78"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect699" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip80)"
-       id="g705"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3652.48,1833)"
-         id="text703">14</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip81)"
-       id="g709"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3718"
-         y="1868"
-         width="78"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect707" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip82)"
-       id="g713"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3731.47,1926)"
-         id="text711">22</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip83)"
-       id="g717"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3685"
-         y="1961"
-         width="78"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect715" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip84)"
-       id="g721"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3698.43,2019)"
-         id="text719">15</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip85)"
-       id="g725"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3739"
-         y="2054"
-         width="78"
-         height="80"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect723" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip86)"
-       id="g729"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(3752.93,2112)"
-         id="text727">10</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip87)"
-       id="g733"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4272"
-         y="1218"
-         width="53"
-         height="79.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect731" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip88)"
-       id="g737"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4285.98,1275)"
-         id="text735">1</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip89)"
-       id="g741"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4373"
-         y="1311"
-         width="53.0005"
-         height="79.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect739" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip90)"
-       id="g745"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4387.2,1368)"
-         id="text743">5</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip91)"
-       id="g749"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4382"
-         y="1403"
-         width="77"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect747" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip92)"
-       id="g753"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4395.31,1461)"
-         id="text751">12</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip93)"
-       id="g757"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4416"
-         y="1496"
-         width="52"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect755" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip94)"
-       id="g761"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4429.36,1554)"
-         id="text759">9</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip95)"
-       id="g765"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4437"
-         y="1589"
-         width="52"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect763" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip96)"
-       id="g769"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4450.39,1647)"
-         id="text767">6</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip97)"
-       id="g773"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4493"
-         y="1682"
-         width="53"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect771" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip98)"
-       id="g777"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4506.81,1740)"
-         id="text775">2</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip99)"
-       id="g781"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4437"
-         y="1775"
-         width="78"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect779" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip100)"
-       id="g785"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4451.24,1833)"
-         id="text783">16</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip101)"
-       id="g789"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4564"
-         y="1868"
-         width="53"
-         height="80.000099"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect787" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip102)"
-       id="g793"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4578.14,1926)"
-         id="text791">1</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip103)"
-       id="g797"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4497"
-         y="1961"
-         width="78"
-         height="79.999802"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect795" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip104)"
-       id="g801"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4511.2,2019)"
-         id="text799">12</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip105)"
-       id="g805"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4638"
-         y="2054"
-         width="52.0005"
-         height="80"
-         fill="#FFFFFF"
-         fill-opacity="0.701961"
-         id="rect803" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip106)"
-       id="g809"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="50"
-         transform="translate(4651.3,2112)"
-         id="text807">1</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip107)"
-       id="g813"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="55"
-         transform="translate(2926.01,1272)"
-         id="text811">Food quality</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip108)"
-       id="g817"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="55"
-         transform="translate(3034.37,1365)"
-         id="text815">Logging</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip109)"
-       id="g821"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="55"
-         transform="translate(2348.7,1458)"
-         id="text819">Depletion of environmental resources</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip110)"
-       id="g825"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="55"
-         transform="translate(2643.18,1551)"
-         id="text823">Construction regulations</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip111)"
-       id="g829"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="55"
-         transform="translate(2387.45,1644)"
-         id="text827">Climate change and natural disasters</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip112)"
-       id="g833"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="55"
-         transform="translate(2840.38,1737)"
-         id="text831">Domestic waste</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip113)"
-       id="g837"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="55"
-         transform="translate(2936.72,1830)"
-         id="text835">Soil erosion</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip114)"
-       id="g841"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="55"
-         transform="translate(2541.61,1923)"
-         id="text839">Air quality in your settlement</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip115)"
-       id="g845"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="55"
-         transform="translate(2707.69,2016)"
-         id="text843">Construction of HPPs</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip116)"
-       id="g849"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="55"
-         transform="translate(2464.4,2109)"
-         id="text847">Water quality in your settlement</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip117)"
-       id="g853"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="2619"
-         y="2177"
-         width="26.9998"
-         height="27.0002"
-         fill="#A9D18E"
-         id="rect851" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip118)"
-       id="g857"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="46"
-         transform="translate(2657.55,2204)"
-         id="text855">Small problem</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip119)"
-       id="g861"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="2995"
-         y="2177"
-         width="26.9998"
-         height="27.0002"
-         fill="#467339"
-         id="rect859" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip120)"
-       id="g865"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="46"
-         transform="translate(3033.93,2204)"
-         id="text863">Not a problem at all</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip121)"
-       id="g869"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3484"
-         y="2177"
-         width="27.0002"
-         height="27.0002"
-         fill="#FB7835"
-         id="rect867" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip122)"
-       id="g873"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="46"
-         transform="translate(3522.78,2204)"
-         id="text871">Somewhat a problem</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip123)"
-       id="g877"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="3992"
-         y="2177"
-         width="27.0002"
-         height="27.0002"
-         fill="#BF0404"
-         id="rect875" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip124)"
-       id="g881"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="46"
-         transform="translate(4030.38,2204)"
-         id="text879">Big problem</text>
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip125)"
-       id="g885"
-       style="opacity:1;stop-opacity:1">
-      <rect
-         x="4327"
-         y="2177"
-         width="26"
-         height="27.0002"
-         fill="#A6A6A6"
-         id="rect883" />
-    </g>
-    <g
-       transform="translate(-2326.4983,-1176.1238)"
-       clip-path="url(#clip126)"
-       id="g889"
-       style="opacity:1;stop-opacity:1">
-      <text
-         font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
-         font-weight="500"
-         font-size="46"
-         transform="translate(4365.19,2204)"
-         id="text887">DK/RA</text>
-    </g>
-    <rect
-       x="16.001699"
-       y="12.3762"
-       width="2417"
+       fill="#FFFFFF"
        height="1074"
-       stroke="#D9D9D9"
+       width="2417"
+       y="11.8762"
+       x="15.5017" />
+    <path
+       style="opacity:1;stop-opacity:1"
+       d="m 1849.6417,64.9162 h -169.01 v 33 h 169.01 z m -32,93 h -137.01 v 33 h 137.01 z m 60,93.01 h -197.01 v 33 h 197.01 z m -61,93 h -136.01 v 33 h 136.01 z m 95,93 h -231.01 v 33 h 231.01 z m -34,92.01 h -197.01 v 33 h 197.01 z m 34,93 h -231.01 v 33 h 231.01 z m -78,93 h -153.01 v 33 h 153.01 z m -28,93.01 h -125.01 v 33 h 125.01 z m 40,93 h -165.01 v 33 h 165.01 z"
+       fill="#A9D18E"
+       id="path387"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;stop-opacity:1"
+       d="m 1966.6417,64.9162 h -117 v 33 h 117 z m 81,93 h -230 v 33 h 230 z m -12,93.01 h -158 v 33 h 158 z m 37,93 h -256 v 33 h 256 z m 38.01,93 h -199.01 v 33 h 199.01 z m 74,92.01 h -307.01 v 33 h 307.01 z m -112.01,93 h -161 v 33 h 161 z m 189.01,93 h -428.01 v 33 h 428.01 z m -110,93.01 h -346.01 v 33 h 346.01 z m 180,93 h -486.01 v 33 h 486.01 z"
+       fill="#467339"
+       id="path391"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;stop-opacity:1"
+       d="m 1400.6217,64.9162 h 280.01 v 33 h -280.01 z m 34,93 h 246.01 v 33 h -246.01 z m -82,93.01 h 328.01 v 33 h -328.01 z m 73,93 h 255.01 v 33 h -255.01 z m -54,93 h 309.01 v 33 h -309.01 z m 26,92.01 h 283.01 v 33 h -283.01 z m 17,93 h 266.01 v 33 h -266.01 z m 118.01,93 h 148 v 33 h -148 z m -67.01,93.01 h 215.01 v 33 h -215.01 z m 34.01,93 h 181 v 33 h -181 z"
+       fill="#FB7835"
+       id="path395"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;stop-opacity:1"
+       d="m 1038.6117,64.9162 h 362.01 v 33 h -362.01 z m 121,93 h 275.01 v 33 h -275.01 z m 54.01,93.01 h 139 v 33 h -139 z m 6,93 h 206 v 33 h -206 z m 4,93 h 148 v 33 h -148 z m 39,92.01 h 135 v 33 h -135 z m 25,93 h 127 v 33 h -127 z m 40,93 h 205.01 v 33 h -205.01 z m 1,93.01 h 137 v 33 h -137 z m 75,93 h 96.01 v 33 h -96.01 z"
+       fill="#BF0404"
+       id="path399"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;stop-opacity:1"
+       d="m 1977.6417,64.9162 h -11 v 33 h 11 z m 121.01,93 h -51.01 v 33 h 51.01 z m 54,93.01 h -117.01 v 33 h 117.01 z m 6,93 h -86.01 v 33 h 86.01 z m 4,93 h -52 v 33 h 52 z m 39,92.01 h -17 v 33 h 17 z m 25,93 h -154.01 v 33 h 154.01 z m 40,93 h -5 v 33 h 5 z m 1,93.01 h -116 v 33 h 116 z m 76,93 h -12 v 33 h 12 z"
+       fill="#A6A6A6"
+       id="path403"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;stop-opacity:1"
+       d="m 1681.0017,34.3762 v 930"
+       stroke="#000000"
        stroke-width="3.4375"
        stroke-linejoin="round"
        stroke-miterlimit="10"
        fill="none"
-       id="rect891"
-       style="opacity:1;stop-opacity:1" />
+       fill-rule="evenodd"
+       id="path407"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1726.5017"
+       y="41.876202"
+       width="77.999802"
+       height="79.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect411" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text415"
+       x="1740.0717"
+       y="98.876198">18</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1710.5017"
+       y="134.87621"
+       width="78"
+       height="79.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect419" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text423"
+       x="1724.2617"
+       y="191.87621">15</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1740.5017"
+       y="226.87621"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect427" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text431"
+       x="1753.9218"
+       y="284.87619">21</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1709.5017"
+       y="319.87619"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect435" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text439"
+       x="1723.5017"
+       y="377.87619">14</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1757.5017"
+       y="412.87619"
+       width="78"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect443" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text447"
+       x="1771.0217"
+       y="470.87619">25</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1740.5017"
+       y="505.87619"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect451" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text455"
+       x="1754.3116"
+       y="563.87622">21</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1757.5017"
+       y="598.87622"
+       width="78"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect459" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text463"
+       x="1770.9617"
+       y="656.87622">25</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1718.5017"
+       y="691.87622"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect467" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text471"
+       x="1732.1317"
+       y="749.87622">16</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1704.5017"
+       y="784.87622"
+       width="77.999802"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect475" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text479"
+       x="1718.3517"
+       y="842.87622">13</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1724.5017"
+       y="877.87622"
+       width="78"
+       height="80"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect483" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text487"
+       x="1738.1017"
+       y="935.87622">18</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1868.5017"
+       y="41.876202"
+       width="78"
+       height="79.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect491" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text495"
+       x="1882.7117"
+       y="98.876198">12</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1893.5017"
+       y="134.87621"
+       width="78"
+       height="79.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect499" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text503"
+       x="1907.7117"
+       y="191.87621">24</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1917.5017"
+       y="226.87621"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect507" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text511"
+       x="1931.1417"
+       y="284.87619">17</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1905.5017"
+       y="319.87619"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect515" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text519"
+       x="1919.0817"
+       y="377.87619">27</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1971.5017"
+       y="412.87619"
+       width="78"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect523" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text527"
+       x="1985.6317"
+       y="470.87619">21</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1992.5017"
+       y="505.87619"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect531" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text535"
+       x="2005.9117"
+       y="563.87622">33</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1953.5017"
+       y="598.87622"
+       width="78"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect539" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text543"
+       x="1966.9917"
+       y="656.87622">17</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="2008.5017"
+       y="691.87622"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect547" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text551"
+       x="2022.4917"
+       y="749.87622">46</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1940.5017"
+       y="784.87622"
+       width="78"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect555" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text559"
+       x="1953.8617"
+       y="842.87622">37</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="2049.5017"
+       y="877.87622"
+       width="78"
+       height="80"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect563" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text567"
+       x="2063.3916"
+       y="935.87622">52</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1502.5017"
+       y="41.876202"
+       width="78"
+       height="79.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect571" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text575"
+       x="1515.8517"
+       y="98.876198">30</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1518.5017"
+       y="134.87621"
+       width="78"
+       height="79.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect579" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text583"
+       x="1532.5317"
+       y="191.87621">26</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1477.5017"
+       y="226.87621"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect587" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text591"
+       x="1491.4617"
+       y="284.87619">35</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1514.5017"
+       y="319.87619"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect595" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text599"
+       x="1528.2717"
+       y="377.87619">27</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1487.5017"
+       y="412.87619"
+       width="78"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect603" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text607"
+       x="1500.9017"
+       y="470.87619">33</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1500.5017"
+       y="505.87619"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect611" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text615"
+       x="1514.0717"
+       y="563.87622">30</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1509.5017"
+       y="598.87622"
+       width="77"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect619" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text623"
+       x="1522.8116"
+       y="656.87622">28</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1568.5017"
+       y="691.87622"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect627" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text631"
+       x="1581.8417"
+       y="749.87622">16</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1534.5017"
+       y="784.87622"
+       width="78"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect635" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text639"
+       x="1548.2917"
+       y="842.87622">23</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1551.5017"
+       y="877.87622"
+       width="78"
+       height="80"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect643" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text647"
+       x="1565.0717"
+       y="935.87622">19</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1180.5017"
+       y="41.876202"
+       width="78"
+       height="79.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect651" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text655"
+       x="1194.5417"
+       y="98.876198">39</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1257.5017"
+       y="134.87621"
+       width="78"
+       height="79.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect659" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text663"
+       x="1271.6317"
+       y="191.87621">29</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1243.5017"
+       y="226.87621"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect667" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text671"
+       x="1257.5017"
+       y="284.87619">15</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1283.5017"
+       y="319.87619"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect675" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text679"
+       x="1297.3917"
+       y="377.87619">22</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1258.5017"
+       y="412.87619"
+       width="78"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect683" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text687"
+       x="1272.0317"
+       y="470.87619">16</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1290.5017"
+       y="505.87619"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect691" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text695"
+       x="1304.6417"
+       y="563.87622">14</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1312.5017"
+       y="598.87622"
+       width="78"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect699" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text703"
+       x="1325.9817"
+       y="656.87622">14</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1391.5017"
+       y="691.87622"
+       width="78"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect707" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text711"
+       x="1404.9717"
+       y="749.87622">22</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1358.5017"
+       y="784.87622"
+       width="78"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect715" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text719"
+       x="1371.9316"
+       y="842.87622">15</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1412.5017"
+       y="877.87622"
+       width="78"
+       height="80"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect723" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text727"
+       x="1426.4316"
+       y="935.87622">10</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1945.5017"
+       y="41.876202"
+       width="53"
+       height="79.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect731" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text735"
+       x="1959.4817"
+       y="98.876198">1</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="2046.5017"
+       y="134.87621"
+       width="53.0005"
+       height="79.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect739" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text743"
+       x="2060.7017"
+       y="191.87621">5</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="2055.5017"
+       y="226.87621"
+       width="77"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect747" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text751"
+       x="2068.8118"
+       y="284.87619">12</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="2089.5017"
+       y="319.87619"
+       width="52"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect755" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text759"
+       x="2102.8618"
+       y="377.87619">9</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="2110.5017"
+       y="412.87619"
+       width="52"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect763" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text767"
+       x="2123.8916"
+       y="470.87619">6</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="2166.5017"
+       y="505.87619"
+       width="53"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect771" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text775"
+       x="2180.3118"
+       y="563.87622">2</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="2110.5017"
+       y="598.87622"
+       width="78"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect779" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text783"
+       x="2124.7417"
+       y="656.87622">16</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="2237.5017"
+       y="691.87622"
+       width="53"
+       height="80.000099"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect787" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text791"
+       x="2251.6416"
+       y="749.87622">1</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="2170.5017"
+       y="784.87622"
+       width="78"
+       height="79.999802"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect795" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text799"
+       x="2184.7017"
+       y="842.87622">12</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="2311.5017"
+       y="877.87622"
+       width="52.0005"
+       height="80"
+       fill="#FFFFFF"
+       fill-opacity="0.701961"
+       id="rect803" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="50"
+       id="text807"
+       x="2324.8018"
+       y="935.87622">1</text>
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="55"
+       id="text811"
+       x="599.51172"
+       y="95.876198">Food quality</text>
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="55"
+       id="text815"
+       x="707.8717"
+       y="188.87621">Logging</text>
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="55"
+       id="text819"
+       x="22.2017"
+       y="281.87619">Depletion of environmental resources</text>
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="55"
+       id="text823"
+       x="316.6817"
+       y="374.87619">Construction regulations</text>
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="55"
+       id="text827"
+       x="60.951698"
+       y="467.87619">Climate change and natural disasters</text>
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="55"
+       id="text831"
+       x="513.88171"
+       y="560.87622">Domestic waste</text>
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="55"
+       id="text835"
+       x="610.22168"
+       y="653.87622">Soil erosion</text>
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="55"
+       id="text839"
+       x="215.11169"
+       y="746.87622">Air quality in your settlement</text>
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="55"
+       id="text843"
+       x="381.19171"
+       y="839.87622">Construction of HPPs</text>
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="55"
+       id="text847"
+       x="137.9017"
+       y="932.87622">Water quality in your settlement</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="292.50171"
+       y="1000.8762"
+       width="26.9998"
+       height="27.0002"
+       fill="#A9D18E"
+       id="rect851" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="46"
+       id="text855"
+       x="331.0517"
+       y="1027.8762">Small problem</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="668.50171"
+       y="1000.8762"
+       width="26.9998"
+       height="27.0002"
+       fill="#467339"
+       id="rect859" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="46"
+       id="text863"
+       x="707.4317"
+       y="1027.8762">Not a problem at all</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1157.5017"
+       y="1000.8762"
+       width="27.0002"
+       height="27.0002"
+       fill="#FB7835"
+       id="rect867" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="46"
+       id="text871"
+       x="1196.2817"
+       y="1027.8762">Somewhat a problem</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="1665.5017"
+       y="1000.8762"
+       width="27.0002"
+       height="27.0002"
+       fill="#BF0404"
+       id="rect875" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="46"
+       id="text879"
+       x="1703.8817"
+       y="1027.8762">Big problem</text>
+    <rect
+       style="opacity:1;stop-opacity:1"
+       x="2000.5017"
+       y="1000.8762"
+       width="26"
+       height="27.0002"
+       fill="#A6A6A6"
+       id="rect883" />
+    <text
+       style="opacity:1;stop-opacity:1"
+       font-family="Gill Sans Nova,Gill Sans Nova_MSFontService,sans-serif"
+       font-weight="500"
+       font-size="46"
+       id="text887"
+       x="2038.6917"
+       y="1027.8762">DK/RA</text>
   </g>
 </svg>
